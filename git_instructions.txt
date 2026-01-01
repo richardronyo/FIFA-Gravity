@@ -1,0 +1,16 @@
+Hello Ashton, this is an instruction page for getting the GitHub repository setup on your system for our project. I'd prefer if you learn how to use the Command Line and some basic commands
+
+INSTRUCTIONS:
+	0. Make sure you have Git installed on your computer to be able to use Git Commands on your Terminal. Here's a tutorial video:
+		https://www.youtube.com/watch?v=wDRoduig_98
+
+	1. Create a folder where you want to store all of the files in. Type command
+		mkdir FIFA-Gravity
+
+	2. Create a local git directory and pull the files from the online repository onto your computer. Type commands
+		git init
+		git remote add origin https://github.com/richardronyo/FIFA-Gravity.git
+		git fetch
+		git switch Ashton
+
+	
