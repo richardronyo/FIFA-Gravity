@@ -18,6 +18,7 @@ To make sure that the main branch is always updated properly, all changes or con
 We want to avoid writing conflicting code that's already been completed.
 
 	1. To ensure that we're all using the latest version of the code, before you begin developing type the following command:
+		git fetch
 		git merge origin/main
 
 	2. When you're ready to push your changes to your branch type the following command:
